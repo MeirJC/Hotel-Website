@@ -8,3 +8,5 @@ this project basic tamplate is taken from a udemy course of "Modern HTML & CSS F
 Now I have gotten back to to review it, I added some modifications and better content to make it more "real-life" example instead of just lorem-ipsum etc'.
 
 This is strictly for learning purpose, this is not a real hotel. all details are fictional.
+
+live demo available [here](https://hotel-bt-website-meirjc.netlify.app/)
