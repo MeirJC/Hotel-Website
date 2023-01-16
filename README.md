@@ -5,7 +5,8 @@
 <p align="center">
   <img src="https://github.com/MeirJC/Personal-Portfolio-Page---Meir-J-cohen/blob/main/images/projects-preview/HBT-Screenshot.jpg" width="420" title="Opening Screen" alt="Page Layot">
 </p>
----
+
+#
 
 A demo project on a hotel website using HTML-CSS.
 this project basic tamplate is taken from a udemy course of "Modern HTML & CSS From The Beginning (Including Sass)" by Brad Traversy that taken a while ago and really liked.
